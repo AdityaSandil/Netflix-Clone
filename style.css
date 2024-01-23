@@ -62,19 +62,19 @@ nav button {
     padding: 0 30px;
 }
 
-span.first {
+span.pehela {
     font-weight: bolder;
     font-size: 48px;
     align-items: center;
 }
 
-span.second {
+span.dusra {
     font-weight: 400;
     font-size: 24px;
     align-items: center;
 }
 
-span.third {
+span.tisra {
     font-weight: 400;
     font-size: 20px;
     align-items: center;
@@ -103,15 +103,17 @@ body {
 .btn.btn-red-sm {
     background-color: red;
     color: white;
+    cursor: pointer;
 }
 
 .btn.btn-red {
     background-color: red;
     color: white;
-    padding: 15px 24px;
+    padding: 15px 20px;
     font-size: 20px;
     border-radius: 4px;
     font-weight: bold;
+    cursor: pointer;
 }
 
 .words-button {
